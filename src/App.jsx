@@ -19,7 +19,7 @@ function App() {
 	return (
 		<div className="app">
 			<header className="user__header">
-				<h1>Funny Heroes Users</h1>
+				<h1>User CRUD</h1>
 				<button onClick={handleOpenForm} className="new__user-btn">
 					New User +
 				</button>
